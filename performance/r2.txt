@@ -1,0 +1,30 @@
+fib 测试结果
+
+c
+=============
+real  0m0.081s
+user  0m0.079s
+sys 0m0.002s
+
+go build & run
+=============
+real  0m0.078s
+user  0m0.075s
+sys 0m0.005s
+
+java
+=============
+real  0m0.121s
+user  0m0.107s
+sys 0m0.026s
+
+
+php
+=============
+real  0m0.515s
+user  0m0.488s
+sys 0m0.027s
+
+
+
+
