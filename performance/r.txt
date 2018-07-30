@@ -1,0 +1,45 @@
+cal 例子测试结果
+==============
+
+c
+============
+real  0m0.004s
+user  0m0.000s
+sys 0m0.004s
+
+c++
+============
+real  0m0.006s
+user  0m0.001s
+sys 0m0.005s
+
+go(go build & run)
+============
+real  0m0.013s
+user  0m0.006s
+sys 0m0.008s
+
+PHP7
+============
+real  0m0.055s
+user  0m0.032s
+sys 0m0.023s
+
+python3
+============
+real  0m0.059s
+user  0m0.037s
+sys 0m0.019s
+
+
+java
+============
+real  0m0.093s
+user  0m0.074s
+sys 0m0.029s
+
+go (go run file)
+============
+real  0m0.193s
+user  0m0.173s
+sys 0m0.070s
